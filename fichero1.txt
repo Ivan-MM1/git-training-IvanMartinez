@@ -2,7 +2,7 @@ Primera línea
 Añadiendo mas contenido dentro de mi fichero. 
 Añadimos una tercera línea de contenido al fichero
 Añadimos una cuarta línea de contenido a nuestro ficheo
-Añadimos la quinta TEXTO AÑADIDO PARA CONFLICTO DESDE EL MAIN
+Línea 5: Error corregido en la rama Bugfix (Paso 3.6)
 esta es una nueva funcionalidad que estoy creando en una rama nueva y las otras lineas tinen que ser IMM
 Modificado desde InteliJ
 
